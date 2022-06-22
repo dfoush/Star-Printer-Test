@@ -129,7 +129,6 @@ final class StarPrinterController: NSObject {
         Updated StarPrinterStatuses:
             offline: \(status.offline)
             coverOpen: \(status.coverOpen)
-            offline: \(status.offline)
             compulsionSwitch: \(status.compulsionSwitch)
 
             overTemp: \(status.overTemp)
